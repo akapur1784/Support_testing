@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: helloworld
+Version: 0.1
+Summary: The familiar example program in Python
+Home-page: https://git02.ae.sda.corp.telstra.com/scm/dh/infraco.git
+Author: Srikanth
+Author-email: srikanth086@gmail.com
+License: BSD
+Description: UNKNOWN
+Keywords: example documentation tutorial
+Platform: UNKNOWN
